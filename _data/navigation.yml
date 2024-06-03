@@ -8,6 +8,13 @@
 - title: People
   url: "#people"
 
+- title: Open Positions
+  url: "#open-positions"
+
+- title: Contact Us
+  url: "#contact-us"
+
+
 # Groups currently don't look good in Dinky. Needs a better style
 # definition.
 #
