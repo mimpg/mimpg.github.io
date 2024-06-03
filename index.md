@@ -2,7 +2,7 @@
 title: "MImPG: Metropolitan Internet meets Post Growth"
 subtitle: "Innoviris Research Platforms 2024: Towards Sustainable Digitalization"
 bigimg:
-    - "img/brussels-005.jpg" : "Brussels by night. Photo by Paolo Margari on Unsplash."
+    - "img/brussels-005.jpg" : "Brussels by night, Poelaert Elevators. Photo by Paolo Margari on Unsplash."
 ---
 
 # About
