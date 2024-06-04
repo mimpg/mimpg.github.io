@@ -78,14 +78,16 @@ indirect effects on businesses and the social and economic choices of
 citizens. Assessing these effects is, however, beyond the scope of this
 project. 
 
-# People
+# People & Organisations
 
-## Principal Investigators
+### Principal Investigators
 
 - [Prof. Dr. Jan Tobias Mühlberg](https://www.beetzsee.de/aboutme.html) (ULB, [Cybersecurity Research Center](https://cybersecurity.ulb.ac.be/))
 - Prof. Dr. Fanny Sbaraglia (ULB, Policy Lab)
 - [Prof. Dr. David Bol](https://perso.uclouvain.be/david.bol/) and [Prof. Dr. Jerome Louveaux](https://scholar.google.be/citations?user=dqfRmkAAAAAJ&hl=fr) (UC Louvain, [Electronic Circuits and Systems](https://uclouvain.be/en/research-institutes/icteam/ecs.html) & [Communication Systems and Networks](https://uclouvain.be/en/research-institutes/icteam/communication-systems-and-networks.html))
 - [Prof. Dr. Tom Barbette](https://perso.uclouvain.be/tom.barbette/) (UC Louvain, [Efficiency of Networked Systems Lab](https://perso.uclouvain.be/tom.barbette/ensg/))
+
+#### Mentors
 
 # Open Positions
 
