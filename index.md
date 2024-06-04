@@ -2,7 +2,7 @@
 title: "MImPG: Metropolitan Internet meets Post Growth"
 subtitle: "Innoviris Research Platforms 2024: Towards Sustainable Digitalization"
 bigimg:
-    - "img/brussels-005.jpg" : "Brussels by night, Poelaert Elevators. Photo by Paolo Margari on Unsplash."
+    - "img/brussels-005.jpg" : "Brussels by night, Poelaert Elevators. Photo by Paolo Margari on Unsplash.&#xB9;"
 ---
 
 # Project Outline
@@ -80,7 +80,7 @@ project.
 
 # People & Organisations
 
-### Principal Investigators
+#### Principal Investigators
 
 - [Prof. Dr. Jan Tobias Mühlberg](https://www.beetzsee.de/aboutme.html) (ULB, [Cybersecurity Research Center](https://cybersecurity.ulb.ac.be/))
 - Prof. Dr. Fanny Sbaraglia (ULB, Policy Lab)
@@ -96,7 +96,10 @@ project.
 For questions and suggestions about our research, please contact Prof. Dr.
 Jan Tobias Mühlberg by email: [jan.tobias.muehlberg@ulb.be](mailto:jan.tobias.muehlberg@ulb.be).
 
+<br></br><br></br>
+---
 ---
 
-Title image by <a href="https://unsplash.com/@paolomargari?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Paolo Margari</a> on <a href="https://unsplash.com/photos/a-view-of-a-city-at-night-from-a-rooftop-GAlMu7FMdaw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+[^1]: Title image by <a href="https://unsplash.com/@paolomargari?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Paolo Margari</a> on <a href="https://unsplash.com/photos/a-view-of-a-city-at-night-from-a-rooftop-GAlMu7FMdaw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
