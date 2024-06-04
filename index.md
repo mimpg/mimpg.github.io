@@ -98,8 +98,5 @@ Jan Tobias Mühlberg by email: [jan.tobias.muehlberg@ulb.be](mailto:jan.tobias.m
 
 <br><br>
 ---
----
-
-[^1]: Title image by [Paolo
-  Margari](https://unsplash.com/@paolomargari?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-view-of-a-city-at-night-from-a-rooftop-GAlMu7FMdaw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).
+&#xB9;: Title image by [Paolo Margari](https://unsplash.com/@paolomargari?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-view-of-a-city-at-night-from-a-rooftop-GAlMu7FMdaw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).
 
