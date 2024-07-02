@@ -83,11 +83,14 @@ project.
 #### Principal Investigators
 
 - [Prof. Dr. Jan Tobias Mühlberg](https://www.beetzsee.de/aboutme.html) (ULB, [Cybersecurity Research Center](https://cybersecurity.ulb.ac.be/))
-- Prof. Dr. Fanny Sbaraglia (ULB, Policy Lab)
+- [Prof. Dr. Fanny Sbaraglia](https://www.linkedin.com/in/fanny-sbaraglia-331b3783/) (ULB, [Policy Lab](https://www.linkedin.com/company/policy-lab-sciencepo-ulb/))
 - [Prof. Dr. David Bol](https://perso.uclouvain.be/david.bol/) and [Prof. Dr. Jerome Louveaux](https://scholar.google.be/citations?user=dqfRmkAAAAAJ&hl=fr) (UC Louvain, [Electronic Circuits and Systems](https://uclouvain.be/en/research-institutes/icteam/ecs.html) & [Communication Systems and Networks](https://uclouvain.be/en/research-institutes/icteam/communication-systems-and-networks.html))
 - [Prof. Dr. Tom Barbette](https://perso.uclouvain.be/tom.barbette/) (UC Louvain, [Efficiency of Networked Systems Lab](https://perso.uclouvain.be/tom.barbette/ensg/))
 
 #### Mentors
+
+- [Olivier Vergeynst](linkedin.com/in/oliviervergeynst) ([The Belgian Institute for Sustainable IT](https://isit-be.org/))
+
 
 # Open Positions
 
