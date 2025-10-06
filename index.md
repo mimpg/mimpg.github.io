@@ -97,6 +97,10 @@ project.
 For questions and suggestions about our research, please contact Prof. Dr.
 Jan Tobias Mühlberg by email: [jan.tobias.muehlberg@ulb.be](mailto:jan.tobias.muehlberg@ulb.be).
 
+Funded by the Brussels-Capital Region - Innoviris &bull;
+Financé par la Région de Bruxelles-Capitale - Innoviris &bull;
+Gefinancierd door  het Brussels Hoofdstedelijk Gewest - Innoviris.
+
 <br><br>
 ---
 &#xB9;: Title image by [Paolo Margari](https://unsplash.com/@paolomargari?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-view-of-a-city-at-night-from-a-rooftop-GAlMu7FMdaw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).
