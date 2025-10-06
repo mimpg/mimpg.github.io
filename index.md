@@ -2,7 +2,7 @@
 title: "MImPG: Metropolitan Internet meets Post Growth"
 subtitle: "Innoviris Research Platforms 2024: Towards Sustainable Digitalization"
 bigimg:
-    - "img/brussels-005-crop-logos.jpg" : "Brussels by night, Poelaert Elevators. Photo by Paolo Margari on Unsplash.&#xB9;"
+    - "img/brussels-005-crop-logos.jpg" : ""
 ---
 
 # Project Outline
@@ -101,7 +101,5 @@ Funded by the Brussels-Capital Region - Innoviris &bull;
 Financé par la Région de Bruxelles-Capitale - Innoviris &bull;
 Gefinancierd door  het Brussels Hoofdstedelijk Gewest - Innoviris.
 
-<br><br>
----
-&#xB9;: Title image by [Paolo Margari](https://unsplash.com/@paolomargari?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-view-of-a-city-at-night-from-a-rooftop-GAlMu7FMdaw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).
+Title image: Brussels by night, Poelaert Elevators, by [Paolo Margari](https://unsplash.com/@paolomargari?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-view-of-a-city-at-night-from-a-rooftop-GAlMu7FMdaw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).
 
