@@ -2,26 +2,18 @@
 - title: Home
   url: /
 
-- title: Project Outline
-  url: "#project-outline"
+- title: News
+  url: /news/
 
-- title: People
-  url: "#people-organisations"
+- title: Project
+  url: /project/
 
-- title: Contact Us
-  url: "#contact-us"
+- title: Publications
+  url: /publications/
 
+- title: Team
+  url: /team/
 
-# Groups currently don't look good in Dinky. Needs a better style
-# definition.
-#
-#- title: Group of Things
-#  url: /group/
-#  sublinks:
-#    - title: Sub-item 1
-#      url: /group/si1
-#    - title: Sub-item 2
-#      url: /group/si2
-#    - title: Sub-item 3
-#      url: /group/si3
+- title: Contact
+  url: /contact/
 

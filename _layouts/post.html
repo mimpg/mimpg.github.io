@@ -14,7 +14,6 @@
   </head>
   <body>
 
-    <!-- Top navigation bar -->
     <header class="site-header">
       <div class="header-inner">
         <a href="{{ '/' | relative_url }}" class="site-logo">{{ site.title | default: site.github.repository_name }}</a>
@@ -25,41 +24,32 @@
       </div>
     </header>
 
-    <!-- Hero / Banner -->
-    {% if page.bigimg %}
-    {% for bigimg in page.bigimg %}
-      {% for imginfo in bigimg %}
-        {% if imginfo[0] %}
-    <div class="hero" style="background-image: url('{{ imginfo[0] | prepend: site.baseurl | replace: '//', '/' }}');">
-      <div class="hero-overlay"></div>
-      <div class="hero-content">
-        <h1>{{ page.title | default: "Page Title" }}</h1>
-        <p class="hero-subtitle">{{ page.subtitle | default: "" }}</p>
-        <div class="hero-logos">
-          <a href="https://www.ulb.be/"><img src="img/ulb-white.png" alt="Université Libre de Bruxelles" width="120"></a>
-          <a href="https://www.uclouvain.be/"><img src="img/uclouvain-white.png" alt="Université catholique de Louvain" width="120"></a>
-        </div>
-      </div>
-    </div>
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
-    {% endif %}
-
-    <!-- Main content -->
     <main class="site-content">
       <div class="container">
-        {{ content }}
+        <article class="post-full">
+          <header class="post-header">
+            <h1>{{ page.title }}</h1>
+            <p class="post-meta">{{ page.date | date: "%B %-d, %Y" }}{% if page.author %} &mdash; {{ page.author }}{% endif %}</p>
+          </header>
+          {% if page.image %}
+          <div class="post-hero-img">
+            <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+          </div>
+          {% endif %}
+          <div class="post-body">
+            {{ content }}
+          </div>
+          <a href="{{ '/news/' | relative_url }}" class="back-link">&larr; Back to News</a>
+        </article>
       </div>
     </main>
 
-    <!-- Footer -->
     <footer class="site-footer">
       <div class="container">
         <div class="footer-inner">
           <div class="footer-logos">
-            <a href="https://www.ulb.be/"><img src="img/ulb-white.png" alt="ULB" width="100"></a>
-            <a href="https://www.uclouvain.be/"><img src="img/uclouvain-white.png" alt="UCLouvain" width="100"></a>
+            <a href="https://www.ulb.be/"><img src="{{ '/img/ulb-white.png' | relative_url }}" alt="ULB" width="100"></a>
+            <a href="https://www.uclouvain.be/"><img src="{{ '/img/uclouvain-white.png' | relative_url }}" alt="UCLouvain" width="100"></a>
           </div>
           <p class="footer-text">Funded by the Brussels-Capital Region &ndash; Innoviris</p>
           <p class="footer-credit"><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>

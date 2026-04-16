@@ -1,0 +1,24 @@
+services:
+  jekyll:
+    image: jekyll/jekyll:4
+    command: jekyll serve --watch --force_polling --livereload
+    ports:
+      - "4000:4000"
+      - "35729:35729"  # livereload port
+    volumes:
+      - .:/srv/jekyll:Z
+      - jekyll-bundle:/usr/local/bundle  # cache gems between runs
+    environment:
+      - JEKYLL_ENV=development
+
+  build:
+    image: jekyll/jekyll:4
+    command: jekyll build
+    volumes:
+      - .:/srv/jekyll:Z
+      - jekyll-bundle:/usr/local/bundle
+    environment:
+      - JEKYLL_ENV=production
+
+volumes:
+  jekyll-bundle:

@@ -15,19 +15,17 @@
 {% endfor %}
 
 <!-- Then we build the nav bar. -->
-<nav>
+<nav class="site-nav">
     <ul>
     {% for entry in site.data.navigation %}
         {% if entry.url == current_page %}
-            <!-- uses yellow, you can change to any other hexadecimal colour code. -->
-            {% assign current = ' style="background-color: #FFFFFF"' %}
+            {% assign current_class = ' class="active"' %}
         {% else %}
-            <!-- We have to declare it 'null' to ensure it doesn't propagate. -->
-            {% assign current = null %}
+            {% assign current_class = null %}
         {% endif %}
         {% assign sublinks = entry.sublinks %}
         {% if sublinks %}
-        <li{{ current }}>
+        <li{{ current_class }}>
             <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
             <ul>
                 {% for sublink in sublinks %}
@@ -36,7 +34,7 @@
             </ul>
         </li>
         {% else %}
-        <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+        <li{{ current_class }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
         {% endif %}
     {% endfor %}
     </ul>

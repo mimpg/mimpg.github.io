@@ -1,0 +1,10 @@
+# Add publications as entries below. They will appear in reverse order (newest first).
+# Supported fields: title, authors, venue, year, doi, url, pdf
+
+# - title: "Example Publication Title"
+#   authors: "A. Author, B. Author, C. Author"
+#   venue: "Proceedings of the Example Conference (ExConf)"
+#   year: 2025
+#   doi: "10.1234/example.2025.001"
+#   url: "https://example.com/paper"
+#   pdf: "/papers/example-2025.pdf"
