@@ -4,8 +4,6 @@ title: "MImPG: Metropolitan Internet meets Post Growth"
 
 <div class="home-intro" markdown="1">
 
-![Logo UCLouvain](img/uclouvain.png "Logo")
-
 MImPG (Metropolitan Internet meets Post Growth) is a transdisciplinary research project which aims to investigate the opportunities for post-growth metropolitan internet access as a means to reduce the environmental impact of digital technologies.
 
 In this context we develop a notion of *frugality* for the internet as a socio-technical innovation, where the rollout of new infrastructure to increase the traffic capacity is substantially reduced and infrastructure operators would operate existing equipment as long as possible.
