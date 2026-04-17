@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "First Participatory Workshop in Brussels"
+title: "First Stakeholder Meeting in Brussels"
 date: 2025-03-20
 author: "Fanny Sbaraglia"
 image: /img/brussels-003.jpg
-excerpt: "We held our first participatory workshop with citizens and telecom stakeholders to explore expectations around sustainable internet access in Brussels."
+excerpt: "We held our first stakeholder meeting with telecom stakeholders to present our project and explore expectations around sustainable internet access in Brussels."
 ---
 
 Our first participatory workshop took place in Brussels, bringing together
