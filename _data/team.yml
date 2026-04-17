@@ -28,6 +28,36 @@
   url: "https://perso.uclouvain.be/tom.barbette/"
   image: "/img/team/barbette.jpg"
 
+- name: "Alessandro Maggi"
+  role: "Researcher"
+  affiliation: "UCLouvain"
+  image: "/img/team/maggi.jpg"
+
+- name: "Apolline Zener"
+  role: "Researcher"
+  affiliation: "ULB"
+  image: "/img/team/zener.jpg"
+
+- name: "Cigdem Yonder"
+  role: "Researcher"
+  affiliation: "ULB"
+  image: "/img/team/yonder.jpg"
+
+- name: "Iness Ben Guirat"
+  role: "Researcher"
+  affiliation: "UCLouvain"
+  image: "/img/team/benguirat.jpg"
+
+- name: "Jason Kayembe"
+  role: "Researcher"
+  affiliation: "ULB"
+  image: "/img/team/kayembe.jpg"
+
+- name: "Marion Allard"
+  role: "Researcher"
+  affiliation: "UCLouvain"
+  image: "/img/team/allard.jpg"
+
 - name: "Olivier Vergeynst"
   role: "Mentor"
   affiliation: "The Belgian Institute for Sustainable IT"

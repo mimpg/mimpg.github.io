@@ -2,6 +2,25 @@
 
 MImPG: Metropolitan Internet meets Post Growth
 
+
+## Adding stuffs
+
+
+---
+
+To add a publication, edit <code>_data/publications.yml</code>:
+
+```yaml
+- title: "Your Paper Title"
+  authors: "A. Author, B. Author"
+  venue: "Conference or Journal Name"
+  year: 2025
+  doi: "10.1234/example"
+```
+
+To add a team member, edit `_data/team.yml` and place their photo in `img/team/`.
+
+
 ## Local Build
 
 ### With Docker (recommended)

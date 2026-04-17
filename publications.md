@@ -27,15 +27,3 @@ permalink: /publications/
 {% else %}
 <p>Publications will appear here as the project progresses. Check back soon!</p>
 {% endif %}
-
----
-
-To add a publication, edit <code>_data/publications.yml</code>:
-
-```yaml
-- title: "Your Paper Title"
-  authors: "A. Author, B. Author"
-  venue: "Conference or Journal Name"
-  year: 2025
-  doi: "10.1234/example"
-```

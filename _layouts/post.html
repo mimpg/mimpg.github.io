@@ -1,67 +1,20 @@
-<!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+---
+layout: default
+---
 
-{% seo %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
-    {% include head-custom.html %}
-  </head>
-  <body>
-
-    <header class="site-header">
-      <div class="header-inner">
-        <a href="{{ '/' | relative_url }}" class="site-logo">{{ site.title | default: site.github.repository_name }}</a>
-        <button class="nav-toggle" aria-label="Toggle navigation">
-          <span></span><span></span><span></span>
-        </button>
-        {% include navigation.html %}
-      </div>
-    </header>
-
-    <main class="site-content">
-      <div class="container">
-        <article class="post-full">
-          <header class="post-header">
-            <h1>{{ page.title }}</h1>
-            <p class="post-meta">{{ page.date | date: "%B %-d, %Y" }}{% if page.author %} &mdash; {{ page.author }}{% endif %}</p>
-          </header>
-          {% if page.image %}
-          <div class="post-hero-img">
-            <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
-          </div>
-          {% endif %}
-          <div class="post-body">
-            {{ content }}
-          </div>
-          <a href="{{ '/news/' | relative_url }}" class="back-link">&larr; Back to News</a>
-        </article>
-      </div>
-    </main>
-
-    <footer class="site-footer">
-      <div class="container">
-        <div class="footer-inner">
-          <div class="footer-logos">
-            <a href="https://www.ulb.be/"><img src="{{ '/img/ulb-white.png' | relative_url }}" alt="ULB" width="100"></a>
-            <a href="https://www.uclouvain.be/"><img src="{{ '/img/uclouvain-white.png' | relative_url }}" alt="UCLouvain" width="100"></a>
-          </div>
-          <p class="footer-text">Funded by the Brussels-Capital Region &ndash; Innoviris</p>
-          <p class="footer-credit"><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
-        </div>
-      </div>
-    </footer>
-
-    <script>
-      document.querySelector('.nav-toggle').addEventListener('click', function() {
-        document.querySelector('.site-nav').classList.toggle('open');
-        this.classList.toggle('active');
-      });
-    </script>
-  </body>
-</html>
+<article class="post-full">
+  {% if page.image %}
+  <div class="post-hero-img">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+  </div>
+  {% endif %}
+  <header class="post-header">
+    <p class="post-meta">{{ page.date | date: "%d.%m.%y" }}</p>
+    <h1>{{ page.title }}</h1>
+    {% if page.subtitle %}<p class="post-subtitle">{{ page.subtitle }}</p>{% endif %}
+  </header>
+  <div class="post-body">
+    {{ content }}
+  </div>
+  <a href="{{ '/news/' | relative_url }}" class="back-link">&larr; Back to news</a>
+</article>

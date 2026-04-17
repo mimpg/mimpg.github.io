@@ -8,16 +8,16 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400;1,8..60,600&display=swap" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
     {% include head-custom.html %}
   </head>
   <body>
 
-    <!-- Top navigation bar -->
+    <!-- Top navigation -->
     <header class="site-header">
       <div class="header-inner">
-        <a href="{{ '/' | relative_url }}" class="site-logo">{{ site.title | default: site.github.repository_name }}</a>
+        <div class="header-spacer"></div>
         <button class="nav-toggle" aria-label="Toggle navigation">
           <span></span><span></span><span></span>
         </button>
@@ -25,26 +25,11 @@
       </div>
     </header>
 
-    <!-- Hero / Banner -->
-    {% if page.bigimg %}
-    {% for bigimg in page.bigimg %}
-      {% for imginfo in bigimg %}
-        {% if imginfo[0] %}
-    <div class="hero" style="background-image: url('{{ imginfo[0] | prepend: site.baseurl | replace: '//', '/' }}');">
-      <div class="hero-overlay"></div>
-      <div class="hero-content">
-        <h1>{{ page.title | default: "Page Title" }}</h1>
-        <p class="hero-subtitle">{{ page.subtitle | default: "" }}</p>
-        <div class="hero-logos">
-          <a href="https://www.ulb.be/"><img src="img/ulb-white.png" alt="Université Libre de Bruxelles" width="120"></a>
-          <a href="https://www.uclouvain.be/"><img src="img/uclouvain-white.png" alt="Université catholique de Louvain" width="120"></a>
-        </div>
-      </div>
+    <!-- Site title block -->
+    <div class="site-title-block">
+      <h1 class="site-title"><a href="{{ '/' | relative_url }}">MImPG</a> <span class="site-title-badge">a transdisciplinary research project</span></h1>
+      <p class="site-subtitle">Metropolitan Internet meets Post Growth</p>
     </div>
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
-    {% endif %}
 
     <!-- Main content -->
     <main class="site-content">
@@ -57,11 +42,16 @@
     <footer class="site-footer">
       <div class="container">
         <div class="footer-inner">
+
+            <br/>
           <div class="footer-logos">
-            <a href="https://www.ulb.be/"><img src="img/ulb-white.png" alt="ULB" width="100"></a>
-            <a href="https://www.uclouvain.be/"><img src="img/uclouvain-white.png" alt="UCLouvain" width="100"></a>
+            <a href="https://www.uclouvain.be/"><img src="{{ '/img/logo_UCLouvain.png' | relative_url }}" alt="UCLouvain" height="36"></a>
+            <a href="https://www.ulb.be/"><img src="{{ '/img/logo_ULB.png' | relative_url }}" alt="ULB" height="36"></a>
           </div>
           <p class="footer-text">Funded by the Brussels-Capital Region &ndash; Innoviris</p>
+          <div class="footer-logos">
+            <a href="https://innoviris.brussels/"><img src="{{ '/img/innoviris.jpg' | relative_url }}" alt="Innoviris" height="48" width="128" style="object-fit: cover;" onerror="this.style.display='none'"></a>
+            </div>
           <p class="footer-credit"><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
         </div>
       </div>

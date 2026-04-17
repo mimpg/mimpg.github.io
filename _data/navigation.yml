@@ -1,15 +1,12 @@
 
-- title: Home
-  url: /
-
 - title: News
   url: /news/
 
-- title: Project
-  url: /project/
-
 - title: Publications
   url: /publications/
+
+- title: Project
+  url: /project/
 
 - title: Team
   url: /team/
