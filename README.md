@@ -6,7 +6,7 @@ MImPG: Metropolitan Internet meets Post Growth
 ## Adding stuffs
 
 
----
+### A publication
 
 To add a publication, edit <code>_data/publications.yml</code>:
 
@@ -18,7 +18,26 @@ To add a publication, edit <code>_data/publications.yml</code>:
   doi: "10.1234/example"
 ```
 
+### A team member
+
 To add a team member, edit `_data/team.yml` and place their photo in `img/team/`.
+
+### A post
+
+Add a file in _posts folder, following this format:
+
+````
+---
+layout: post
+title: "MImPG Project Kick-Off"
+date: 2024-10-15
+author: "Jan Tobias Mühlberg"
+image: /img/brussels-001.jpg
+excerpt: "A small description of the post that will be used as summary"
+---
+
+Lorem ipsum
+```
 
 
 ## Local Build
