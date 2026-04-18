@@ -2,7 +2,7 @@
   role: "Principal Investigator"
   affiliation: "ULB — Cybersecurity Research Center"
   url: "https://www.beetzsee.de/aboutme.html"
-  image: "/img/team/muhlberg.jpg"
+  image: "/img/team/jt.jpg"
 
 - name: "Fanny Sbaraglia"
   role: "Principal Investigator"
@@ -31,7 +31,7 @@
 - name: "Alessandro Maggi"
   role: "Researcher"
   affiliation: "UCLouvain"
-  image: "/img/team/maggi.jpg"
+  image: "/img/team/alessandro.jpg"
 
 - name: "Apolline Zener"
   role: "Researcher"
@@ -41,7 +41,7 @@
 - name: "Cigdem Yonder"
   role: "Researcher"
   affiliation: "ULB"
-  image: "/img/team/yonder.jpg"
+  image: "/img/team/cigdem.jpg"
 
 - name: "Iness Ben Guirat"
   role: "Researcher"
