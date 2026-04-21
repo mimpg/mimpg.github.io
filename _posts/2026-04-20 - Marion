@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "MImPG Project Kick-Off"
-date: 2024-10-15
+title: "MImPG is presenting at ICT4S 2026"
+date: 2026-04-20
 author: "Marion Allard"
 image: /img/brussels-001.jpg
 excerpt: "Our paper, "The Dominant Role of CPE Energy Consumption in the Transition from DSL to PON Fixed Access Networks," has been accepted at the ICT4S 2026 conference in Bern, Switzerland."
@@ -15,4 +15,5 @@ In this work, we develop a model to estimate the electricity consumption of fixe
 Applying this model to the Brussels network, we find that CPE accounts for more than 96% of total consumption in fiber networks and over 78% in copper networks.
 As a result, the overall energy consumption of fiber access networks becomes comparable to that of copper networks, meaning that the CPE consumption counterbalances the energy savings expected from the transition from DSL to PON.
 We also show that idle consumption represents more than 90% of total CPE energy use, highlighting a major opportunity for future research and optimization.
+
 The paper will soon be available in the conference proceedings.
