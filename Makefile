@@ -13,7 +13,10 @@ serve:
 build:
 	docker compose run --rm build
 
+dist: build
+	zip -r site.zip _site
+
 clean:
-	rm -f *.md.bak
+	rm -f *.md.bak site.zip
 	rm -rf _site .jekyll-cache .jekyll-metadata
 
