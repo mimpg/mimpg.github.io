@@ -1,4 +1,3 @@
-<img width="2894" height="2894" alt="Post-game1" src="https://github.com/user-attachments/assets/6fb4e1b4-ad2b-4549-bdd1-f3f29b4b8d1b" />
 
 - brussels-001.jpg
   Photo by <a href="https://unsplash.com/@tompodmore86?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Tom Podmore</a> on <a href="https://unsplash.com/photos/a-large-group-of-people-standing-around-a-building-XJGOrYSnBFo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
