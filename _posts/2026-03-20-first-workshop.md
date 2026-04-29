@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Stakeholder Meeting in Brussels"
-date: 2025-03-20
+date: 2026-03-20
 author: "Fanny Sbaraglia"
 image: /img/brussels-003.jpg
 excerpt: "We held our first stakeholder meeting with telecom stakeholders to present our project and explore expectations around sustainable internet access in Brussels."
