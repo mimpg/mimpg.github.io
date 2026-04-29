@@ -7,19 +7,15 @@ image: /img/brussels-003.jpg
 excerpt: "We held our first stakeholder meeting with telecom stakeholders to present our project and explore expectations around sustainable internet access in Brussels."
 ---
 
-Our first participatory workshop took place in Brussels, bringing together
-citizens, telecom operators, and policy makers to discuss the future of
-sustainable internet access.
+On March 5, 2026, we held our first stakeholder meeting, which included 
+participants from the public, private, and nonprofit sectors. The purpose
+of this initial meeting was to present our research and gather feedback on
+our ongoing research process from real-life perspectives. 
 
-## Key Takeaways
+Although the initial meeting was intended to introduce stakeholders to our
+research and gather feedback, we are now planning two hands-on workshops 
+for June 3, 2026, and October 8, 2026. During these workshops, we will map
+current visions and efforts for a sustainable internet in Brussels and identify 
+actionable points and future scenarios. 
 
-Participants expressed a strong interest in understanding the environmental
-footprint of their internet usage. There was broad agreement that equitable
-access should be a guiding principle, though opinions diverged on how to
-implement data traffic limitations in practice.
-
-## Methodology
-
-The workshop used a combination of scenario-based discussions and
-collaborative prototyping to gather insights about user expectations for a
-frugal internet.
+Stay tuned for information about our next workshops!
