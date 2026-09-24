@@ -12,8 +12,7 @@ In this context we develop a notion of *frugality* for the internet as a socio-t
 
 </div>
 
-
-# News &amp; Upcoming
+## News &amp; Upcoming Events
 
 <div class="news-grid">
 {% for post in site.posts %}
@@ -26,6 +25,8 @@ In this context we develop a notion of *frugality* for the internet as a socio-t
       <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
     </div>
   </a>
+  {% else %}
+  <p>No</p>
   {% endif %}
 {% endfor %}
 </div>
@@ -34,6 +35,7 @@ In this context we develop a notion of *frugality* for the internet as a socio-t
 <p>No news articles yet. Check back soon!</p>
 {% endif %}
 
+</div>
 
 ## The Team
 
