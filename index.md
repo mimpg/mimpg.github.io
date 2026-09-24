@@ -26,7 +26,6 @@ In this context we develop a notion of *frugality* for the internet as a socio-t
     </div>
   </a>
   {% else %}
-  no
   {% endif %}
 {% endfor %}
 </div>
