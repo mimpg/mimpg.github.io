@@ -18,7 +18,7 @@ In this context we develop a notion of *frugality* for the internet as a socio-t
 {% for post in site.posts %}
   {% if post.frontpage == "true" %}
   <a href="{{ post.url | relative_url }}" class="news-card">
-    <div class="news-card-img" style="background-image: url('{{ post.image | relative_url }}');"></div>
+    <div class="news-card-img" style="background-image: url('{{ post.thumbnail | default: post.image | relative_url }}');"></div>
     <div class="news-card-body">
       <time class="news-card-date">{{ post.date | date: "%B %-d, %Y" }}</time>
       <h3>{{ post.title }}</h3>
