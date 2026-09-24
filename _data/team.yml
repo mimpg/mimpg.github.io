@@ -33,10 +33,10 @@
   affiliation: "UCLouvain — Efficiency of Networked Systems Lab"
   image: "/img/team/alessandro.jpg"
 
-- name: "Apolline Zener"
+- name: "Apolline Zehner"
   role: "Researcher"
   affiliation: "ULB — Cybersecurity Research Center"
-  image: "/img/team/zener.jpg"
+  image: "/img/team/apolline.jpeg"
 
 - name: "Çiğdem Yönder"
   role: "Researcher"
@@ -46,12 +46,12 @@
 - name: "Iness Ben Guirat"
   role: "Researcher"
   affiliation: "ULB — Cybersecurity Research Center"
-  image: "/img/team/benguirat.jpg"
+  image: "/img/team/iness.jpeg"
 
 - name: "Jason Kayembe"
   role: "Researcher"
   affiliation: "ULB — Cybersecurity Research Center"
-  image: "/img/team/kayembe.jpg"
+  image: "/img/team/jason.jpeg"
 
 - name: "Marion Allard"
   role: "Researcher"
