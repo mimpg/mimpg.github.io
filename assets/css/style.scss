@@ -334,21 +334,21 @@ footer {
 
 .footer-logos {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  gap: 5rem;
-  margin-bottom: 0.2rem;
+  gap: 2rem 3rem;
+  margin-bottom: 1.5rem;
 }
 
 .footer-logos img {
-  height: 80px;
   width: auto;
+  height: auto;
+  max-height: 56px;
+  max-width: 190px;
   opacity: 0.9;
   transition: opacity 0.2s;
   display: block;
-}
-.footer-logos img[alt="Innoviris"] {
-  height: 100px;
 }
 .footer-logos img:hover {
   opacity: 1;
@@ -414,6 +414,14 @@ footer {
 
   h1 { font-size: 1.8rem; }
   h2 { font-size: 1.4rem; }
+
+  .footer-logos {
+    gap: 1.5rem 2rem;
+  }
+  .footer-logos img {
+    max-height: 40px;
+    max-width: 130px;
+  }
 }
 
 /* ===== BUTTONS ===== */
