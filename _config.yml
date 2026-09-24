@@ -6,6 +6,8 @@ show_downloads: false
 show_repo: false
 google_analytics:
 
+future: true
+
 author:
   name: Jan Tobias Muehlberg
 
