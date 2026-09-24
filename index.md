@@ -16,7 +16,7 @@ In this context we develop a notion of *frugality* for the internet as a socio-t
 
 <div class="news-grid">
 {% for post in site.posts %}
-  {% if post.upcoming == "true" %}
+  {% if post.frontpage == "true" %}
   <a href="{{ post.url | relative_url }}" class="news-card">
     <div class="news-card-img" style="background-image: url('{{ post.image | relative_url }}');"></div>
     <div class="news-card-body">
@@ -26,7 +26,6 @@ In this context we develop a notion of *frugality* for the internet as a socio-t
     </div>
   </a>
   {% else %}
-  <p>No</p>
   {% endif %}
 {% endfor %}
 </div>
