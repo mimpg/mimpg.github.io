@@ -361,11 +361,11 @@ footer {
 }
 
 .footer-credit {
-  color: rgba($color-muted);
+  color: $color-muted;
   font-size: 0.8rem;
 }
 .footer-credit a {
-  color: rgba($color-muted);
+  color: $color-muted;
 }
 
 /* ===== RESPONSIVE ===== */
