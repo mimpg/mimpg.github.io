@@ -1,10 +1,10 @@
 ---
 layout: post
-title: MImPG at “Creative and Scientific Festival: Transforming Public Action”
+title: "MImPG at &quot;Creative and Scientific Festival: Transforming Public Action&quot;"
 date: 2026-04-29
 author: "Çiğdem Yönder, Fanny Sbaraglia"
 image: /img/Festival-1.jpeg
-excerpt: "The Policy Lab presented the MImPG project at the "Creative & Scientific Festival: Transforming Public Action""
+excerpt: "The Policy Lab presented the MImPG project at the &quot;Creative &amp; Scientific Festival: Transforming Public Action&quot;"
 ---
 
 The Policy Lab presented the MImPG project at the "Creative & Scientific Festival: Transforming
