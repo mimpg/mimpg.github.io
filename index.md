@@ -1,6 +1,7 @@
 ---
 title: "MImPG: Metropolitan Internet meets Post Growth"
 ---
+<img src="{{ '/img/image.jpg' | relative_url }}" alt="Short description of the image" class="home-hero">
 
 <div class="home-intro" markdown="1">
 
