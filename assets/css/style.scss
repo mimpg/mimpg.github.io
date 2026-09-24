@@ -726,8 +726,10 @@ footer {
 .post-hero-img img,
 .post-body img {
   width: 100%;
+  max-width: 100%;
   height: auto;
   display: block;
+  margin: 0;
   border: none;
   padding: 0;
   box-shadow: none;
