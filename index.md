@@ -13,6 +13,28 @@ In this context we develop a notion of *frugality* for the internet as a socio-t
 </div>
 
 
+# News &amp; Upcoming
+
+<div class="news-grid">
+{% for post in site.posts %}
+  {% if post.upcoming == "true" %}
+  <a href="{{ post.url | relative_url }}" class="news-card">
+    <div class="news-card-img" style="background-image: url('{{ post.image | relative_url }}');"></div>
+    <div class="news-card-body">
+      <time class="news-card-date">{{ post.date | date: "%B %-d, %Y" }}</time>
+      <h3>{{ post.title }}</h3>
+      <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
+    </div>
+  </a>
+  {% endif %}
+{% endfor %}
+</div>
+
+{% if site.posts.size == 0 %}
+<p>No news articles yet. Check back soon!</p>
+{% endif %}
+
+
 ## The Team
 
 <div class="team-grid team-grid--home">
