@@ -774,4 +774,12 @@ footer {
   font-weight: 700;
 }
 
+/* Remove theme's default frame around all images on the site */
+img {
+  border: none !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+  background: none !important;
+}
+
 
