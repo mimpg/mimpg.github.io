@@ -29,32 +29,32 @@
   image: "/img/team/tom.png"
 
 - name: "Alessandro Maggi"
-  role: "Doctoral Researcher"
+  role: "Researcher"
   affiliation: "UCLouvain — Efficiency of Networked Systems Lab"
   image: "/img/team/alessandro.jpg"
 
 - name: "Apolline Zener"
-  role: "Doctoral Researcher"
+  role: "Researcher"
   affiliation: "ULB — Cybersecurity Research Center"
   image: "/img/team/zener.jpg"
 
 - name: "Çiğdem Yönder"
-  role: "Postdoctoral Researcher"
+  role: "Researcher"
   affiliation: "ULB - Policy Lab"
   image: "/img/team/cigdem.jpg"
 
 - name: "Iness Ben Guirat"
-  role: "Postdoctoral Researcher"
+  role: "Researcher"
   affiliation: "ULB — Cybersecurity Research Center"
   image: "/img/team/benguirat.jpg"
 
 - name: "Jason Kayembe"
-  role: "Doctoral Researcher"
+  role: "Researcher"
   affiliation: "ULB — Cybersecurity Research Center"
   image: "/img/team/kayembe.jpg"
 
 - name: "Marion Allard"
-  role: "Doctoral Researcher"
+  role: "Researcher"
   affiliation: "UCLouvain — Efficiency of Networked Systems Lab"
   image: "/img/team/marion.png"
 
