@@ -60,14 +60,14 @@
 
 - name: "Olivier Vergeynst"
   role: "Collaborator" 
-  subrole: "Mentor"
+  role_note: "Mentor"
   affiliation: The Belgian Institute for Sustainable IT"
   url: "https://linkedin.com/in/oliviervergeynst"
   image: "/img/team/olivier.png"
 
 - name: "Jules Delcon"
   role: "Collaborator"
-  subrole: "Mentor"
+  role_note: "Mentor"
   affiliation: The Belgian Institute for Sustainable IT"
   url: "https://www.linkedin.com/in/jules-delcon/"
   image: "/img/team/jules.jpeg"
