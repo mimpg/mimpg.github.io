@@ -59,13 +59,15 @@
   image: "/img/team/marion.png"
 
 - name: "Olivier Vergeynst"
-  role: "Collaborator"
-  affiliation: "The Belgian Institute for Sustainable IT"
+  role: "Collaborator" 
+  subrole: "Mentor"
+  affiliation: The Belgian Institute for Sustainable IT"
   url: "https://linkedin.com/in/oliviervergeynst"
   image: "/img/team/vergeynst.jpg"
 
 - name: "Jules Delcon"
   role: "Collaborator"
-  affiliation: "The Belgian Institute for Sustainable IT"
+  subrole: "Mentor"
+  affiliation: The Belgian Institute for Sustainable IT"
   url: "https://www.linkedin.com/in/jules-delcon/"
   image: "/img/team/delcon.jpg"
