@@ -43,7 +43,7 @@ permalink: /team/
 ## Collaborators
 
 <div class="team-grid">
-{% for member in site.data.team %}{% if member.role == "Researcher" %}
+{% for member in site.data.team %}{% if member.role == "Collaborator" %}
   <div class="team-card">
     <div class="team-photo">
       <img src="{{ member.image | relative_url }}" alt="{{ member.name }}" onerror="this.src='https://ui-avatars.com/api/?name={{ member.name | url_encode }}&size=200&background=312782&color=F2E8D6&bold=true';">
