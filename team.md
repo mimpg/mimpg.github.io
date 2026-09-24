@@ -51,7 +51,7 @@ permalink: /team/
     <h3 class="team-name">
       {% if member.url %}<a href="{{ member.url }}">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}
     </h3>
-    <<p class="team-role">{{ member.role }}{% if member.role_note %} · {{ member.role_note }}{% endif %}</p>
+    <p class="team-role">{{ member.role }}{% if member.role_note %} · {{ member.role_note }}{% endif %}</p>
     <p class="team-affiliation">{{ member.affiliation }}</p>
   </div>
 {% endif %}{% endfor %}

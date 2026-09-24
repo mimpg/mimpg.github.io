@@ -787,4 +787,18 @@ img {
   background: none !important;
 }
 
+/* Team: bold names */
+.team-card h2,
+.team-card h3,
+.team-name,
+.team-name a {
+  font-weight: 700 !important;
+}
+
+.team-card h2,
+.team-card h3 {
+  border-bottom: none !important;
+  padding-bottom: 0;
+}
+
 
