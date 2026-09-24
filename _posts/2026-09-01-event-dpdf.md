@@ -5,6 +5,7 @@ frontpage: "true"
 date: 2026-10-08
 author: "Çiğdem Yönder, Fanny Sbaraglia"
 image: /img/2026-09-01-event-dpdf.webp
+thumbnail: /img/6_Workshop.jpg
 excerpt: "A hands-on workshop to reimagine our digital needs."
 ---
 

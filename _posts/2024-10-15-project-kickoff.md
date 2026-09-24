@@ -4,6 +4,7 @@ title: "MImPG Project Kick-Off"
 date: 2024-10-15
 author: "Jan Tobias Mühlberg"
 image: /img/brussels-001.jpg
+thumbnail: /img/1_Kickoff.jpg
 excerpt: "The MImPG project officially launched in October 2024, bringing together researchers from ULB and UCLouvain to explore post-growth metropolitan internet access."
 ---
 
