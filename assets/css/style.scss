@@ -336,14 +336,19 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 2rem;
+  gap: 3rem;
   margin-bottom: 0.2rem;
 }
 
 .footer-logos img {
+  height: 80px;
+  width: auto;
   opacity: 0.9;
   transition: opacity 0.2s;
   display: block;
+}
+.footer-logos img[alt="Innoviris"] {
+  height: 100px;
 }
 .footer-logos img:hover {
   opacity: 1;
@@ -356,7 +361,7 @@ footer {
 }
 
 .footer-credit {
-  color: rgba(240, 230, 211, 0.6);
+  color: rgba($color-muted);
   font-size: 0.8rem;
 }
 .footer-credit a {
