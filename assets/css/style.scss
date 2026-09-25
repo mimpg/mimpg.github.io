@@ -829,6 +829,14 @@ html, body {
   font-weight: 700;
 }
 
+.page-img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem 0 2rem;
+}
+
 /* Remove theme's default frame around all images on the site */
 img {
   border: none !important;
@@ -847,6 +855,12 @@ img {
 
 .team-card h2,
 .team-card h3 {
+  border-bottom: none !important;
+  padding-bottom: 0;
+}
+
+/* Remove the theme's line under headings */
+h1, h2, h3 {
   border-bottom: none !important;
   padding-bottom: 0;
 }
