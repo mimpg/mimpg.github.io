@@ -865,4 +865,31 @@ h1, h2, h3 {
   padding-bottom: 0;
 }
 
+/* ===== SPLIT: text left, image right ===== */
+.split {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.5rem;
+  align-items: center;
+  margin: 2rem 0;
+}
+.split-text > :first-child {
+  margin-top: 0;
+}
+.split-text p {
+  text-align: left;
+}
+.split-img img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0;
+}
 
+@media (max-width: 768px) {
+  .split {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+}
