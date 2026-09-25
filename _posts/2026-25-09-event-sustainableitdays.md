@@ -2,7 +2,7 @@
 layout: post
 title: "UPCOMING EVENT: MImPG @Brussels Sustainable IT Days"
 frontpage: "true"
-date: 2026-09-24
+date: 2026-10-15
 author: "Çiğdem Yönder, Fanny Sbaraglia"
 image: /img/2026-10-15-eventsustitdaysimg.webp
 thumbnail: /img/2026-10-15-susitdays.jpg
