@@ -762,6 +762,48 @@ footer {
   border-top: 2px solid $color-primary;
 }
 
+/* ===== RIBBONS (full-width page sections) ===== */
+
+html, body {
+  overflow-x: clip;
+}
+
+.ribbon {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  padding: 3rem 0;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.ribbon-inner {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+/* Color variants */
+.ribbon--light   { background: $color-highlight; }
+.ribbon--accent  { background: $color-accent; }
+.ribbon--dark    { background: $color-primary; }
+
+/* Light text on dark ribbons */
+.ribbon--dark h2, .ribbon--dark h3, .ribbon--dark h4,
+.ribbon--dark p, .ribbon--dark li,
+.ribbon--accent h2, .ribbon--accent h3, .ribbon--accent h4,
+.ribbon--accent p, .ribbon--accent li {
+  color: #FFFFFF;
+}
+.ribbon--dark a, .ribbon--accent a {
+  color: #FFFFFF;
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .ribbon { padding: 2rem 0; }
+  .ribbon-inner { padding: 0 1.25rem; }
+}
+
 /* ===== HOME INTRO ===== */
 
 .home-intro {

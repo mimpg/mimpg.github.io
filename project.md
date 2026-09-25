@@ -7,13 +7,18 @@ permalink: /project/
 
 The MImPG project is a prospective research project financed by Innoviris that aims to study opportunities for post-growth metropolitan internet access as a means to reduce the environmental impact of digital technologies. 
 
-Inspired by Kate Raworth's Doughnut Economics,post-growth industries strive 
-to operate between the socio-economic floor corresponding to the satisfaction of the basic needs of all actors (individuals' fundamental rights and social cohesion but also economic viability) and the ecological ceiling provided by planetary boundaries that
-restrict, e.g., greenhouse-gas emissions and the availability of raw
-materials. A post-growth economy must thus occupy that sweet spot of being
-profitable within the planetary boundaries and enabling a good life for
-all, which requires us to reconsider social, economic, political, and
-technical aspects of internet access, here at the metropolitan level.
+<section class="ribbon ribbon--light" markdown="1">
+<div class="ribbon-inner" markdown="1">
+
+## A Post-Growth Perspective
+
+Inspired by Kate Raworth's Doughnut Economics,post-growth industries strive to operate between the socio-economic floor corresponding to the satisfaction of the basic needs of all actors (individuals' fundamental rights and social cohesion but also economic viability) and the ecological ceiling provided by planetary boundaries that restrict, e.g., greenhouse-gas emissions and the availability of raw materials. A post-growth economy must thus occupy that sweet spot of being profitable within the planetary boundaries and enabling a good life for all, which requires us to reconsider social, economic, political, and technical aspects of internet access, here at the metropolitan level.
+
+</div>
+</section>
+
+<section class="ribbon ribbon--dark" markdown="1">
+<div class="ribbon-inner" markdown="1">
 
 ## Our Aim
 
@@ -40,15 +45,17 @@ many challenges that we aim to address in this project:
 - How do we guarantee security and reliability in ageing equipment, and
   recover equipment after failure or compromise?
 
+</div>
+</section>
 
  <img src="{{ '/img/MImPG_researchpillars.jpg' | relative_url }}" alt="research pillars" class="page-img">
 
 ## Four Research Pillars
 
+<section class="ribbon ribbon--accent" markdown="1">
+<div class="ribbon-inner" markdown="1">
 
 ## What to expect?
-
-<img src="{{ '/img/MImPG_what to expect.jpg' | relative_url }}" alt="research pillars" class="page-img">
 
 As results of this project, we envision to provide Belgian internet service
 providers (ISPs) with a comprehensive assessment of post-growth concepts
@@ -68,3 +75,10 @@ internet access can be an enabler for a sustainable economy at large, with
 extensive indirect effects on businesses and the social and economic choices of
 citizens. Assessing these effects is, however, beyond the scope of this
 project.
+
+</div>
+</section>
+
+
+
+
