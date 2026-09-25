@@ -5,7 +5,7 @@ frontpage: "true"
 date: 2026-09-24
 author: "Çiğdem Yönder, Fanny Sbaraglia"
 image: /img/2026-10-15-eventsustitdaysimg.webp
-thumbnail: /img/2026-10-15-susitdays.jpeg
+thumbnail: /img/2026-10-15-susitdays.jpg
 excerpt: "Get ready to take a closer look at our research."
 ---
 
