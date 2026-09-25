@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Upcoming Workshop: Digital Pasts, Digital Futures"
+title: "UPCOMING WORKSHOP: Digital Pasts, Digital Futures"
 frontpage: "true"
 date: 2026-10-08
 author: "Çiğdem Yönder, Fanny Sbaraglia"
