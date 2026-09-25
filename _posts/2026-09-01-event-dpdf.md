@@ -4,7 +4,7 @@ title: "Upcoming Workshop: Digital Pasts, Digital Futures"
 frontpage: "true"
 date: 2026-10-08
 author: "Çiğdem Yönder, Fanny Sbaraglia"
-image: /img/MImPG_081026.jpg
+image: /img/MImPG_October2026_long.jpg
 thumbnail: /img/6_Workshop.jpg
 excerpt: "A hands-on workshop to reimagine our digital needs."
 ---
