@@ -11,6 +11,9 @@ The MImPG project is a prospective research project financed by Innoviris that a
 
 Inspired by Kate Raworth's Doughnut Economics,post-growth industries strive to operate between the socio-economic floor corresponding to the satisfaction of the basic needs of all actors (individuals' fundamental rights and social cohesion but also economic viability) and the ecological ceiling provided by planetary boundaries that restrict, e.g., greenhouse-gas emissions and the availability of raw materials. A post-growth economy must thus occupy that sweet spot of being profitable within the planetary boundaries and enabling a good life for all, which requires us to reconsider social, economic, political, and technical aspects of internet access, here at the metropolitan level.
 
+<section class="ribbon ribbon--dark" markdown="1">
+<div class="ribbon-inner" markdown="1">
+
 ## Our Aim
 
 To reduce the growing energy demands, emission and material footprint of

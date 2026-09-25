@@ -40,7 +40,7 @@
 
 - name: "Çiğdem Yönder"
   role: "Researcher"
-  affiliation: "ULB - Policy Lab"
+  affiliation: "ULB — Policy Lab"
   image: "/img/team/cigdem.jpg"
 
 - name: "Iness Ben Guirat"
@@ -61,13 +61,13 @@
 - name: "Olivier Vergeynst"
   role: "Collaborator" 
   role_note: "Mentor"
-  affiliation: The Belgian Institute for Sustainable IT"
+  affiliation: The Belgian Institute for Sustainable IT
   url: "https://linkedin.com/in/oliviervergeynst"
   image: "/img/team/olivier.png"
 
 - name: "Jules Delcon"
   role: "Collaborator"
   role_note: "Mentor"
-  affiliation: The Belgian Institute for Sustainable IT"
+  affiliation: The Belgian Institute for Sustainable IT
   url: "https://www.linkedin.com/in/jules-delcon/"
   image: "/img/team/jules.jpeg"
