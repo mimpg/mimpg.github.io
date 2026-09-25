@@ -42,7 +42,7 @@ many challenges that we aim to address in this project:
 </div>
 </section>
 
- <img src="{{ '/img/MImPG_researchpillars.jpg' | relative_url }}" alt="research pillars" class="page-img">
+ <img src="{{ '/img/pillars.jpg' | relative_url }}" alt="research pillars" class="page-img">
 
 ## Four Research Pillars
 
