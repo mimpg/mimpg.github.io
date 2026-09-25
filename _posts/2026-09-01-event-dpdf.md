@@ -4,7 +4,7 @@ title: "Upcoming Workshop: Digital Pasts, Digital Futures"
 frontpage: "true"
 date: 2026-10-08
 author: "Çiğdem Yönder, Fanny Sbaraglia"
-image: /img/2026-09-01-event-dpdf.webp
+image: /img/MImPG_081026.jpg
 thumbnail: /img/6_Workshop.jpg
 excerpt: "A hands-on workshop to reimagine our digital needs."
 ---
@@ -16,11 +16,12 @@ Each new generation of digital infrastructure seems essential, yet we
 rarely consider whether it is truly urgent or the environmental impact of
 the antennas, cables and towers.
 
-In this workshop, we address these questions head on. Together, we will
-explore what we genuinely need from digital infrastructure and what we have
-simply inherited. We will also imagine what a more frugal internet for
-Brussels could look like.
+The MImPG consortium invites you to address these questions head-on and hands-on. 
+In this workshop, you will gain insights into the environmental impact of networks 
+and join a dialogue on possible ways forward. Together, we will explore what we 
+genuinely need from digital infrastructure, what we have simply inherited, and 
+what a more frugal internet for Brussels could look like.
 
-[Event Registration](https://www.eventbrite.com/e/digital-pasts-digital-futures-tickets-2000313095315)
+[To take part, register for the workshop.](https://www.eventbrite.com/e/digital-pasts-digital-futures-tickets-2000313095315)
 
 
